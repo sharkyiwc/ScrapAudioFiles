@@ -12,4 +12,5 @@ Once all the images have been downloaded, use RetroBat's local scraping method t
 
 # Retrobat doc
 https://wiki.retrobat.org/get-started/retrobat-folder-structure
+
 https://wiki.retrobat.org/francais/navigation/scraping-and-metadata
